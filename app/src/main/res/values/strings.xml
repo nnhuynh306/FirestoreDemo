@@ -1,3 +1,5 @@
 <resources>
-    <string name="app_name">FirestoreProject</string>
+    <string name="app_name">YouTube</string>
+    <string name="top_level_destination_home_label">Home</string>
+    <string name="top_level_destination_profile_label">Profile</string>
 </resources>
